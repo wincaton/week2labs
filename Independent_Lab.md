@@ -7,10 +7,12 @@ In this assignment you will create basic code showcasing the concepts you learne
 
 Use Markdown to add descriptive text at the top of your notebook. Include details that inform the reader of the context, purpose, and author of the notebook. For example, you might include: 
 
-* Course Information (e.g., course name, program name, etc.)
+* Course Information (e.g., course name, graduate program name, etc.)
 * Assignment Name
 * Notebook Author Name
 * Submission Date
+
+Also include text welcoming users to your notebook (e.g., "Welcome to my Fahrenheit to Celsius converter!")
 
 ## Celsius to Fahrenheit Conversion 
 
@@ -23,7 +25,7 @@ The fist step is to create two variables: `celsius` and `fahrenheit`. One will h
 
 ### Step 2
 
-The second step is to output one line of text welcoming users to your program. Use the text, "Welcome to my Fahrenheit to Celsius converter!" Output another line of text asking the user to provide a value for Celsius. Next, read input from the user.
+The second step is to output a line of text asking the user to provide a value for Celsius. Next, read input from the user.
 
 You can request input from a user by using the function `input()`. In Python 3, input returns a string (`str`). We have to explicitly convert this string to numeric (either `int` or `float`) in order . Hint: revist step 1. 
 
