@@ -5,7 +5,7 @@ In this assignment you will create basic code showcasing the concepts you learne
 
 ## Descriptive Text
 
-Use Markdown to add descriptive text at the top of your notebook. Include details that inform the reader of the context, purpose, and author of the notebook. For example: 
+Use Markdown to add descriptive text at the top of your notebook. Include details that inform the reader of the context, purpose, and author of the notebook. For example, you might include: 
 
 * Course Information (e.g., course name, program name, etc.)
 * Assignment Name
