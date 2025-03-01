@@ -10,9 +10,9 @@ To begin, you should:
 
 ## Fundamental Aspects of Python 
 
-For convienence, this tutorial is provided as both a Python notebook (.ipynb) and in HTML. The HTML version of the tutorial shows output for executed code in the notebook.
+For convienence, this tutorial is provided as both a Python notebook (.ipynb) and in HTML. The HTML version of the tutorial shows output for executed code in the notebook. You can view the HTML version in your web browser. 
 
-For the remainder of the semester, you will only find the Python notebook version include in the week's repo, although you can generate the HTML or PDF version of a notebook in JupyterLab for your personal review. 
+For the remainder of the semester, you will only find the Python notebook version included in the week's repo, although you can generate the HTML or PDF version of a notebook in JupyterLab for your personal review. 
 
 1. Launch JupyterLab
 2. Use the file browser to navigate to your local repo copy
