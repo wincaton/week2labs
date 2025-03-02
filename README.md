@@ -7,6 +7,8 @@ To begin, you should:
 * Fork and clone this repo
 * Inspect the contents of this repo
 
+To ensure you recieve full points, review the assignment rubrics in Canvas before submitting your lab notebooks. 
+
 
 ## Fundamental Aspects of Python 
 
@@ -23,21 +25,29 @@ For the remainder of the semester, you will only find the Python notebook versio
 ## Instructor-led Lab
 
 1. In JupyterLab, open the instructor-led lab file: 02_Instructor_Lab.ipynb
-2. Review the instructions provided in the Markdown cell
-3. Complete the tasks required for this lab
-4. Routinely save your notebook to ensure that you do not lose your work
-5. Double check that output for your code cells is saved in your notebook
-6. Push your notebook to GitHub
-
-## Independent Lab
-
-1. Review the instructions for this lab provided in the [Independent_Lab.md](/Independent_Lab.md) file
-2. In JupyterLab, create a new Python notebook (Python 3 ipykernal)
-3. Name your notebook according to naming convention specified in Canvas: 02_Independent_Lab.ipynb
+2. Modify the file name to include your last name
+  * 02_Instructor_Lab_*YourLastNameHere*.ipynb
+3. Review the instructions provided in the Markdown cell
 4. Complete the tasks required for this lab
 5. Routinely save your notebook to ensure that you do not lose your work
 6. Double check that output for your code cells is saved in your notebook
 7. Push your notebook to GitHub
+8. In Canvas, submit the GitHub URL for your lab on the assignment page
+  * e.g., github.com/small0live/week2labs/02_Instructor_Lab_Newton.ipynb
+
+## Independent Lab
+
+1. Review the instructions for this lab provided in the [Independent_Lab.md](/Independent_Lab.md) file
+2. In JupyterLab, create a new Python notebook
+  * Python 3 (ipykernal)
+3. Name your notebook according to naming convention specified in Canvas
+  * 02_Independent_Lab_*YourLastNameHere*.ipynb
+4. Complete the tasks required for this lab
+5. Routinely save your notebook to ensure that you do not lose your work
+6. Double check that output for your code cells is saved in your notebook
+7. Push your notebook to GitHub
+8. In Canvas, submit the GitHub URL for your lab on the assignment page
+  * e.g., github.com/small0live/week2labs/02_Independent_Lab_Newton.ipynb
 
 
-Note: make sure to shut down your instance of JupyterLab once you completed your assignments!
+Make sure to shut down your instance of JupyterLab when you have finished work on your notebooks!
